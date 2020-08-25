@@ -12,14 +12,14 @@
 
 ## **Hi there** 👋    
 Welcome to my github! I'm Rivas Frits Sasia, 17 y.o freshgraduate, i'm Junior Web Frontend Developer.
-> Everyone has the same starting point even though the times are different
+> ***Everyone has the same starting point even though the times are different***
 
 ### **A little more about me...**
 
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
 - 🌱 I’m currently learning about web frontend
 - 💬 Ask me about (nope) let's just sharing
-- ☕ Wanna buy me some coffee? [click here](https://trakteer.id/fritssasia)
+- ☕ Wanna buy me some coffee? [Click here [trakteer.id]](https://trakteer.id/fritssasia)
 
 ##### Languages and Framework I use
 
