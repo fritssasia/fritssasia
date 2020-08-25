@@ -1,5 +1,4 @@
-
-<!-- ## My Projects and Repositories listed below -->
+## My Projects and Repositories listed below
 
 <h2 align="center">My Projects</h2>
 
