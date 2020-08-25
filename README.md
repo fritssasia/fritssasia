@@ -19,6 +19,7 @@ Welcome to my github! I'm Rivas Frits Sasia, 17 y.o freshgraduate, i'm Junior We
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
 - 🌱 I’m currently learning about web frontend
 - 💬 Ask me about (nope) let's just sharing
+- 👨‍💻 Want to see my creation? [Click here](https://github.com/fritssasia/fritssasia/blob/master/myprojects.md)
 - ☕ Wanna buy me some coffee? [Click here [trakteer.id]](https://trakteer.id/fritssasia)
 
 ##### Languages and Framework I use
