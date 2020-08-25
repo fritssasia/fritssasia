@@ -1,4 +1,4 @@
-
+# Hi, I'm Rivas Frits Sasia. Junior web frontend
 
 <!--
 **fritssasia/fritssasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=radical)
+
+## **My skills**
+
+- 🔭 I’m currently working on (nope) I just graduated from a vocational high school
+- 🌱 I’m currently learning about web development
+- 💬 Ask me about (nope) let's just sharing
+- 📫 How to reach me: visit my personal web [fritssasia.github.io](https://fritssasia.github.io)
+
