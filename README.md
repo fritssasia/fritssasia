@@ -1,3 +1,4 @@
+## **Hi, I'm Thai Braga!** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=radical)
 
@@ -16,16 +17,16 @@
 - 💬 Ask me about (nope) let's just sharing
 - 📫 How to reach me: visit my personal web [fritssasia.github.io](https://fritssasia.github.io)
 
-##### Languages I use
+##### Languages and Framework I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=264de4)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=6610f2)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-##### Some of the technologies I have worked with
+##### Some of the technology I use
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=yellow)
 ![VSCode](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=1575F9)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Chrome-222222?style=flat&logo=google-chrome&logoColor=blue)
 
