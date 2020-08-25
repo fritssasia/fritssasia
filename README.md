@@ -15,7 +15,6 @@
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
 - 🌱 I’m currently learning about web development
 - 💬 Ask me about (nope) let's just sharing
-- 📫 How to reach me: visit my personal web [fritssasia.github.io](https://fritssasia.github.io)
 
 ##### Languages and Framework I use
 
