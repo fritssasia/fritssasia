@@ -2,7 +2,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=radical)
 
 <a href="https://fritssasia.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-fritssasia.github.io-blue?style=flat-square&logo=google-chrome">
-
 [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
 [![Instagram](https://img.shields.io/badge/-Instagram-125688?style=flat-square&labelColor=125688&logo=instagram&logoColor=fb3958&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=6289631046822&text=Hi!)](https://api.whatsapp.com/send?phone=6289631046822&text=Hi!)
