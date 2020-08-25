@@ -10,6 +10,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/rivas-frits-sasia-a810661a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fritssasia@gmail.com)](mailto:fritssasia@gmail.com)
 
+### **About me**
+
+- 🔭 I’m currently working on (nope) I just graduated from a vocational high school
+- 🌱 I’m currently learning about web development
+- 💬 Ask me about (nope) let's just sharing
+- 📫 How to reach me: visit my personal web [fritssasia.github.io](https://fritssasia.github.io)
+
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -21,4 +28,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=yellow)
 ![VSCode](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=1575F9)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![GitHub](https://img.shields.io/badge/-Chrome-222222?style=flat&logo=google-chrome&logoColor=blue)
 
