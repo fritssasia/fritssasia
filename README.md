@@ -10,19 +10,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/rivas-frits-sasia-a810661a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fritssasia@gmail.com)](mailto:fritssasia@gmail.com)
 
- Welcome to my github! I'm Rivas Frits Sasia, 17 y.o freshgraduate, i'm Junior Web Frontend Developer.
+ ### **A little more about me...**
+Welcome to my github! I'm Rivas Frits Sasia<br>17 y.o freshgraduate, i'm Junior Web Frontend Developer.
 > ***Everyone has the same starting point even though the times are different***
-
-### **A little more about me...**
-
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
 - 🌱 I’m currently learning about web frontend
 - 💬 Ask me about (nope) let's just sharing
 - 👨‍💻 Want to see my creation? [Click here](https://github.com/fritssasia/fritssasia/blob/master/myprojects.md)
 - ☕ Wanna buy me some coffee? [Click here [trakteer.id]](https://trakteer.id/fritssasia)
 
-##### Languages and Framework I use 
-
+##### Languages and Framework I use
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=264de4)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=6610f2)
