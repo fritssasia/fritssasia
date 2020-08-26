@@ -21,7 +21,7 @@
 - 👨‍💻 Want to see my creation? [Click here](https://github.com/fritssasia/fritssasia/blob/master/myprojects.md)
 - ☕ Wanna buy me some coffee? [Click here [trakteer.id]](https://trakteer.id/fritssasia)
 
-##### Languages and Framework I use
+##### Languages and Framework I use 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=264de4)
