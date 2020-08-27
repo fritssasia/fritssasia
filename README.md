@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/rivas-frits-sasia-a810661a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fritssasia@gmail.com)](mailto:fritssasia@gmail.com)
 
-Welcome to my github! I'm Rivas Frits Sasia<br>17 y.o freshgraduate, i'm interested in learning about web development.
+Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in learning about web development.
 > ***" Everyone has the same starting point even though the times are different ".***
 
 ---
@@ -20,7 +20,7 @@ Welcome to my github! I'm Rivas Frits Sasia<br>17 y.o freshgraduate, i'm interes
 - 🌱 I’m currently learning about web frontend
 - 💬 Ask me about (nope) let's just sharing
 - 👨‍💻 Want to see my creation? [Click here](https://github.com/fritssasia/fritssasia/blob/master/myprojects.md)
-- ☕ Wanna buy me some coffee? [Click here [trakteer.id]](https://trakteer.id/fritssasia)
+- ☕ Wanna buy me some coffee? [Click here [ trakteer.id ]](https://trakteer.id/fritssasia)
 
 ##### Languages and Framework I use
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
