@@ -34,3 +34,5 @@ Welcome to my github! I'm Rivas Frits Sasia<br>17 y.o freshgraduate, i'm Junior 
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Chrome-222222?style=flat&logo=google-chrome&logoColor=blue)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
