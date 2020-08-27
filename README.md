@@ -10,9 +10,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/rivas-frits-sasia-a810661a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fritssasia@gmail.com)](mailto:fritssasia@gmail.com)
 
- ### **A little more about me...**
 Welcome to my github! I'm Rivas Frits Sasia<br>17 y.o freshgraduate, i'm Junior Web Frontend Developer.
 > ***Everyone has the same starting point even though the times are different***
+
+---
+
+### **A little more about me...**
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
 - 🌱 I’m currently learning about web frontend
 - 💬 Ask me about (nope) let's just sharing
