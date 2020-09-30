@@ -1,6 +1,6 @@
 ## **Hi, I'm Frits Sasia!** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=midnight-purple)
 
 <a href="https://fritssasia.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-fritssasia.github.io-blue?style=flat-square&logo=google-chrome">
 [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
