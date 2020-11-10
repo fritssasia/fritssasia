@@ -2,7 +2,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=midnight-purple)
 
-<img align="right" height="250" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="max-width:100%;">
+<img align="right" height="250" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="max-width:100%; object-fit:cover;">
 
 ### **A little more about me...**
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
