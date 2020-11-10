@@ -15,11 +15,12 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 - 👨‍💻 Want to see my creation? [Click here](https://github.com/fritssasia/fritssasia/blob/master/myprojects.md)
 - ☕ Wanna buy me some coffee? [Click here [ trakteer.id ]](https://trakteer.id/fritssasia)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=buefy">
-<img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritssasia&theme=buefy">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=buefy">
+<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritssasia&theme=buefy">
 
 <br>
 <br>
+---
 
 <a href="https://fritssasia.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-fritssasia.github.io-blue?style=flat-square&logo=google-chrome">
 [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
@@ -28,7 +29,6 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/Frits_Sasia)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/rivas-frits-sasia-a810661a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fritssasia@gmail.com)](mailto:fritssasia@gmail.com)
-
 ---
 
 ##### Languages and Framework I use
