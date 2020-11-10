@@ -3,10 +3,11 @@
 
 ## **Hi There, I'm Rivas Frits Sasia!**
 
-<img align="right" height="250" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="object-fit:cover;">
-
 <p></p>
+
 > ***" Everyone has the same starting point even though the times are different ".***
+
+<img align="right" height="200px" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="object-fit:cover;">
 
 ### **A little more about me...**
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
