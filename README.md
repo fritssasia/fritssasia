@@ -20,7 +20,7 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 
 <br>
 
-<h3>Connect With Me <img src="" height="32px" style="max-width:100%;"></h3>
+<h3>Connect With Me <img src="https://github.com/fritssasia/fritssasia/blob/master/assets/handshake.gif?raw=true" height="32px" style="max-width:100%;"></h3>
 
 <!--
 
