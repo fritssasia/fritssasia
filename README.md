@@ -1,18 +1,18 @@
 ![age](https://img.shields.io/badge/Age-17-blue)
-![focus](https://img.shields.io/badge/Focus-FullStack-blue)
+![focus](https://img.shields.io/badge/Focus-Frontend-blue)
 
 ## **Hi There, I'm Rivas Frits Sasia!**
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="object-fit:cover;">
 
-Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in learning about web development.
+<p></p>
 > ***" Everyone has the same starting point even though the times are different ".***
 
 ### **A little more about me...**
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
 - 🌱 I’m currently learning about web frontend
 - 💬 Ask me about (nope) let's just sharing
-- 👨‍💻 Want to see my creation? [Click here](https://github.com/fritssasia/fritssasia/blob/master/myprojects.md)
+- ⚡ Fun fact:
 - ☕ Wanna buy me some coffee? [Click here [ trakteer.id ]](https://trakteer.id/fritssasia)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=buefy">
