@@ -1,7 +1,7 @@
 ![age](https://img.shields.io/badge/Age-17-blue)
 ![focus](https://img.shields.io/badge/Focus-FullStack-blue)
 
-## **Hi, I'm Frits Sasia!**
+## **Hi There, I'm Rivas Frits Sasia!**
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="object-fit:cover;">
 
@@ -20,7 +20,7 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 
 <br>
 
-<h3>Connect With Me <img src="https://github.com/fritssasia/fritssasia/blob/master/assets/handshake.gif?raw=true" height="32px" style="max-width:100%;"></h3>
+<h3>Connect With Me <img src="https://github.com/fritssasia/fritssasia/blob/master/assets/handshake.gif?raw=true" height="29px" style="max-width:100%;"></h3>
 
 <!--
 
