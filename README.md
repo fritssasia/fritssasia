@@ -7,7 +7,7 @@
 
 > ***" Everyone has the same starting point even though the times are different ".***
 
-<img align="right" height="200px" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="object-fit:cover;">
+<img align="right" height="200" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="object-fit:cover; padding-top: 30px;">
 
 ### **A little more about me...**
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
