@@ -2,6 +2,13 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=midnight-purple)
 
+### **A little more about me...**
+- 🔭 I’m currently working on (nope) I just graduated from a vocational high school
+- 🌱 I’m currently learning about web frontend
+- 💬 Ask me about (nope) let's just sharing
+- 👨‍💻 Want to see my creation? [Click here](https://github.com/fritssasia/fritssasia/blob/master/myprojects.md)
+- ☕ Wanna buy me some coffee? [Click here [ trakteer.id ]](https://trakteer.id/fritssasia)
+
 <a href="https://fritssasia.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-fritssasia.github.io-blue?style=flat-square&logo=google-chrome">
 [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
 [![Instagram](https://img.shields.io/badge/-Instagram-125688?style=flat-square&labelColor=125688&logo=instagram&logoColor=fb3958&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
@@ -14,13 +21,6 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 > ***" Everyone has the same starting point even though the times are different ".***
 
 ---
-
-### **A little more about me...**
-- 🔭 I’m currently working on (nope) I just graduated from a vocational high school
-- 🌱 I’m currently learning about web frontend
-- 💬 Ask me about (nope) let's just sharing
-- 👨‍💻 Want to see my creation? [Click here](https://github.com/fritssasia/fritssasia/blob/master/myprojects.md)
-- ☕ Wanna buy me some coffee? [Click here [ trakteer.id ]](https://trakteer.id/fritssasia)
 
 ##### Languages and Framework I use
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -35,4 +35,3 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 ![GitHub](https://img.shields.io/badge/-Chrome-222222?style=flat&logo=google-chrome&logoColor=blue)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
