@@ -1,8 +1,9 @@
 ## **Hi, I'm Frits Sasia!**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=midnight-purple)
-
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="max-width:100%; object-fit:cover;">
+
+Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in learning about web development.
+> ***" Everyone has the same starting point even though the times are different ".***
 
 ### **A little more about me...**
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
@@ -11,6 +12,9 @@
 - 👨‍💻 Want to see my creation? [Click here](https://github.com/fritssasia/fritssasia/blob/master/myprojects.md)
 - ☕ Wanna buy me some coffee? [Click here [ trakteer.id ]](https://trakteer.id/fritssasia)
 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=midnight-purple)
+
 <a href="https://fritssasia.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-fritssasia.github.io-blue?style=flat-square&logo=google-chrome">
 [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
 [![Instagram](https://img.shields.io/badge/-Instagram-125688?style=flat-square&labelColor=125688&logo=instagram&logoColor=fb3958&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
@@ -18,9 +22,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/Frits_Sasia)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/rivas-frits-sasia-a810661a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fritssasia@gmail.com)](mailto:fritssasia@gmail.com)
-
-Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in learning about web development.
-> ***" Everyone has the same starting point even though the times are different ".***
 
 ---
 
