@@ -18,7 +18,7 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=buefy">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritssasia&theme=buefy">
+<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritssasia&theme=buefy">
 
 <br>
 
