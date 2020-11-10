@@ -1,3 +1,6 @@
+![age](https://img.shields.io/badge/Age-17-blue)
+![focus](https://img.shields.io/badge/Focus-FullStack-blue)
+
 ## **Hi, I'm Frits Sasia!**
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="object-fit:cover;">
