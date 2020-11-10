@@ -16,9 +16,9 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 - ☕ Wanna buy me some coffee? [Click here [ trakteer.id ]](https://trakteer.id/fritssasia)
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=buefy)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=buefy">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fritssasia&theme=buefy))]
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritssasia&theme=buefy">
 
 <a href="https://fritssasia.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-fritssasia.github.io-blue?style=flat-square&logo=google-chrome">
 [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
