@@ -16,7 +16,7 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 - ☕ Wanna buy me some coffee? [Click here [ trakteer.id ]](https://trakteer.id/fritssasia)
 
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=buefy">
-<img align="center" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritssasia&theme=buefy&layout=compact">
+<img align="center" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritssasia&theme=buefy">
 
 <br>
 <br>
