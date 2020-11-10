@@ -18,6 +18,8 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=midnight-purple)
 
+[![fritssasia wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fritssasia)](https://wakatime.com/@fritssasia)
+
 <a href="https://fritssasia.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-fritssasia.github.io-blue?style=flat-square&logo=google-chrome">
 [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
 [![Instagram](https://img.shields.io/badge/-Instagram-125688?style=flat-square&labelColor=125688&logo=instagram&logoColor=fb3958&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
