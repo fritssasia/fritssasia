@@ -19,8 +19,10 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritssasia&theme=buefy">
 
 <br>
-<br>
----
+
+<h3>Connect With Me <img src="" height="32px" style="max-width:100%;"></h3>
+
+<!--
 
 <a href="https://fritssasia.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-fritssasia.github.io-blue?style=flat-square&logo=google-chrome">
 [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://web.facebook.com/fritslx)](https://web.facebook.com/fritslx)
@@ -44,3 +46,4 @@ Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in
 ![GitHub](https://img.shields.io/badge/-Chrome-222222?style=flat&logo=google-chrome&logoColor=blue)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+-->
