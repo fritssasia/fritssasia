@@ -1,6 +1,6 @@
 ## **Hi, I'm Frits Sasia!**
 
-<img align="right" height="250" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="max-width:100%; object-fit:cover;">
+<img align="right" height="250" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="object-fit:cover;">
 
 Welcome to my github! I'm Frits Sasia<br>17 y.o freshgraduate, i'm interested in learning about web development.
 > ***" Everyone has the same starting point even though the times are different ".***
