@@ -7,7 +7,6 @@ saya bercita-cita ingin membuat hal yang bisa bermanfaat bagi banyak orang
 
 ### Kontak
 <a href=""><img src="https://img.shields.io/badge/@fritslx%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
 <a href=""><img src="https://img.shields.io/badge/@fritslx%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
