@@ -8,11 +8,6 @@
 
 <img align="right" height="200" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="object-fit:cover;">
 
-### Tentang saya
-Hai saya Rivas Frits Sasia, 17 tahun asal kota Manado Indonesia
-saya tertarik mempelajari dunia IT khususnya dibidang Programming
-saya bercita-cita ingin membuat hal yang bisa bermanfaat bagi banyak orang
-
 ### **A little more about me...**
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
 - 🌱 I’m currently learning about web frontend
