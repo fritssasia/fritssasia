@@ -3,9 +3,8 @@
 
 ## **Hi There, I'm Rivas Frits Sasia!**
 
-<p></p>
 
-> ***" Everyone has the same starting point even though the times are different ".***
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=buefy">
 
 <img align="right" height="200" width="400" alt="GIF" src="https://github.com/fritssasia/fritssasia/blob/master/assets/people.gif?raw=true" style="object-fit:cover;">
 
@@ -13,11 +12,12 @@
 - 🔭 I’m currently working on (nope) I just graduated from a vocational high school
 - 🌱 I’m currently learning about web frontend
 - 💬 Ask me about (nope) let's just sharing
-- ⚡ Fun fact:
-- ☕ Wanna buy me some coffee? [Click here [ trakteer.id ]](https://trakteer.id/fritssasia)
+- ⚡ Fun fact : I like to share knowledge with other people
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=buefy">
-<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritssasia&theme=buefy">
+### Donation
+- ☕ Wanna buy me some coffee? [Click here [ saweria ]](https://trakteer.id/fritssasia)
+
+> ***" Everyone has the same starting point even though the times are different ".***
 
 <br>
 
