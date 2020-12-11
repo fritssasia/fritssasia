@@ -8,7 +8,8 @@ saya bercita-cita ingin membuat hal yang bisa bermanfaat bagi banyak orang
 ### Kontak
 
 ### Donasi
-- ☕ Wanna buy me some coffee? [Click here [ saweria ]](https://trakteer.id/fritssasia)
+☕ Mau traktirin kopi?
+- [saweria.co/fritssasia](https://saweria.co/fritssasia)
 
 ### GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fritssasia&show_icons=true&theme=midnight-purple">
