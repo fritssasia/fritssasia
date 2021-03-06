@@ -2,6 +2,8 @@ Hai saya Rivas Frits Sasia, 18 tahun asal kota Manado Indonesia
 saya tertarik mempelajari dunia IT khususnya dibidang Programming
 saya bercita-cita ingin membuat hal yang bisa bermanfaat bagi banyak orang
 
+> I like the night. Without the dark, we'd never see the stars
+
 ### Kontak
 <a href="https://www.facebook.com/fritslx"><img src="https://img.shields.io/badge/Rivas Frits Sasia-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/fritslx/"><img src="https://img.shields.io/badge/@fritslx%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
