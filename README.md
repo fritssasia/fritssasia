@@ -1,4 +1,4 @@
-Hai saya Rivas Frits Sasia, 18 tahun asal kota Manado Indonesia
+Hai saya Rivas Frits Sasia, 19 tahun asal kota Manado Indonesia
 saya tertarik mempelajari dunia IT khususnya dibidang Programming
 saya bercita-cita ingin membuat hal yang bisa bermanfaat bagi banyak orang
 
