@@ -1,7 +1,3 @@
-Hai saya Rivas Frits Sasia, 19 tahun asal kota Manado Indonesia
-saya tertarik mempelajari dunia IT khususnya dibidang Programming
-saya bercita-cita ingin membuat hal yang bisa bermanfaat bagi banyak orang
-
 > I like the night. Without the dark, we'd never see the stars
 
 ### Kontak
